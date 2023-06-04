@@ -2,50 +2,16 @@
 layout: homepage
 ---
 
-<h2 id="about-me" style="padding-top:0px;">About Me</h2>
+{% include_relative _includes/about.md %}
 
-I am currently a Ph.D. student (from fall, 2022) at <a href="https://github.com/thuml" target="_blank">Machine Learning Group</a> (THUML), <a href="https://www.thss.tsinghua.edu.cn/" target="_blank">School of Software</a>, <a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a>, advised by Prof. <a href="http://ise.thss.tsinghua.edu.cn/~mlong/" target="_blank">Mingsheng Long</a>. Before that, I received my Bachelor's degrees in Software Engineering, and Pure and Applied Mathematics (second degree), from <a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a>. In high school, I was quite into competitive programming and used to compete in <a href="https://www.noi.cn/" target="_blank">Olympiad in Informatics</a> (OI).
-
-My research goal is to develop **fundamental techniques for general decision intelligence** and advance their applications in the real world. 
-<!-- (both the physical world and the digital world) -->
-Currently, my research interests include:
-
-- **Data-driven reinforcement learning & decision making:** offline reinforcement learning, imitation learning, model-based reinforcement learning
-- **Deep learning:** world models, foundation models, transfer learning
-
-<!-- ## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
+<!-- news -->
 
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/projects.md %}
 
-## Education
+{% include_relative _includes/education.md %}
 
-<ul>
-  <li>Ph.D. in Software Engineering, 2022-2027 (<em>expected</em>)<br />
-  <a href="https://www.thss.tsinghua.edu.cn/" target="_blank">School of Software</a>, <a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a></li>
-  <li>Bachelor in Software Engineering, 2018-2022<br />
-  <a href="https://www.thss.tsinghua.edu.cn/" target="_blank">School of Software</a>, <a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a><br />
-  GPA: 3.98/4.0, Rank: 1/89</li>
-  <li>Bachelor in Pure and Applied Mathematics (<em>Second Degree</em>), 2019-2022<br />
-  <a href="https://www.math.tsinghua.edu.cn/" target="_blank">Department of Mathematical Sciences</a>, <a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a><br />
-  GPA: 3.75/4.0</li>
-</ul>
+<!-- experience -->
 
-<!-- ## Experiences -->
-<!-- interns -->
-
-## Honors & Awards
-
-- Outstanding Graduates of Tsinghua (清华大学优秀毕业生), 2022
-- Outstanding Graduates of Beijing (北京市优秀毕业生), 2022
-- National Scholarship (国家奖学金, Top 1%), 2020
-- Comprehensive Excellence Award of Tsinghua (清华大学综合优秀奖), 2019, 2021
-- 34th National Olympiad in Informatics (NOI), Silver Medal (81st Place), 2017
-
-{% include_relative _includes/services.md %}
+{% include_relative _includes/awards.md %}
