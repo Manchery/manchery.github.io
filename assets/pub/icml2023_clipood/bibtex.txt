@@ -1,0 +1,8 @@
+@misc{shu2023clipood,
+      title={CLIPood: Generalizing CLIP to Out-of-Distributions}, 
+      author={Yang Shu and Xingzhuo Guo and Jialong Wu and Ximei Wang and Jianmin Wang and Mingsheng Long},
+      year={2023},
+      eprint={2302.00864},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}

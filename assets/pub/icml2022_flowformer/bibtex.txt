@@ -1,0 +1,15 @@
+
+@InProceedings{pmlr-v162-wu22m,
+  title = 	 {Flowformer: Linearizing Transformers with Conservation Flows},
+  author =       {Wu, Haixu and Wu, Jialong and Xu, Jiehui and Wang, Jianmin and Long, Mingsheng},
+  booktitle = 	 {Proceedings of the 39th International Conference on Machine Learning},
+  pages = 	 {24226--24242},
+  year = 	 {2022},
+  editor = 	 {Chaudhuri, Kamalika and Jegelka, Stefanie and Song, Le and Szepesvari, Csaba and Niu, Gang and Sabato, Sivan},
+  volume = 	 {162},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {17--23 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v162/wu22m/wu22m.pdf},
+  url = 	 {https://proceedings.mlr.press/v162/wu22m.html},
+}

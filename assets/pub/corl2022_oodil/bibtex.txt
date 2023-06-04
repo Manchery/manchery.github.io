@@ -1,0 +1,15 @@
+
+@InProceedings{pmlr-v205-qiu23a,
+  title = 	 {Out-of-Dynamics Imitation Learning from Multimodal Demonstrations},
+  author =       {Qiu, Yiwen and Wu, Jialong and Cao, Zhangjie and Long, Mingsheng},
+  booktitle = 	 {Proceedings of The 6th Conference on Robot Learning},
+  pages = 	 {1071--1080},
+  year = 	 {2023},
+  editor = 	 {Liu, Karen and Kulic, Dana and Ichnowski, Jeff},
+  volume = 	 {205},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {14--18 Dec},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v205/qiu23a/qiu23a.pdf},
+  url = 	 {https://proceedings.mlr.press/v205/qiu23a.html},
+}
