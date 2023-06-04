@@ -3,7 +3,7 @@
 </h2>
 
 <ul>
-<li><strong><a href="https://github.com/Manchery/awesome-multi-task-learning">Awesome Multi-task Learning</a></strong>&nbsp;&nbsp;<img style="height:1em" alt="GitHub stars" src="https://img.shields.io/github/stars/Manchery/awesome-multi-task-learning?style=social">
+<li><strong><a href="https://github.com/Manchery/awesome-multi-task-learning" target="_blank">Awesome Multi-task Learning</a></strong>&nbsp;&nbsp;<img style="height:1em" alt="GitHub stars" src="https://img.shields.io/github/stars/Manchery/awesome-multi-task-learning?style=social">
 <br/>
 A curated list of datasets, codebases, and papers on Multi-Task Learning (MTL), from a Machine Learning perspective. 
 </li>

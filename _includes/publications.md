@@ -16,7 +16,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2305.18499">Pre-training Contextualized World Models with In-the-wild Videos for Reinforcement Learning
+    <div class="title"><a href="https://arxiv.org/abs/2305.18499" target="_blank">Pre-training Contextualized World Models with In-the-wild Videos for Reinforcement Learning
 </a></div>
     <div class="author"><strong>Jialong Wu</strong>*, Haoyu Ma*, Chaoyi Deng, Mingsheng Long#</div>
     <div class="periodical"><em>arXiv preprint, 2023.</em></div>
@@ -35,7 +35,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2302.00864">CLIPood: Generalizing CLIP to Out-of-Distributions</a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2302.00864" target="_blank">CLIPood: Generalizing CLIP to Out-of-Distributions</a></div>
     <div class="author">Yang Shu*, Xingzhuo Guo*, <strong>Jialong Wu</strong>, Ximei Wang, Jianmin Wang, Mingsheng Long#</div>
     <div class="periodical"><em>International Conference on Machine Learning (<strong>ICML</strong>), 2023.</em></div>
     <div class="links">
@@ -53,7 +53,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/caa934a507a952698d54efb24845fc4b-Abstract-Conference.html">Supported Policy Optimization for Offline Reinforcement Learning</a></div>
+    <div class="title"><a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/caa934a507a952698d54efb24845fc4b-Abstract-Conference.html" target="_blank">Supported Policy Optimization for Offline Reinforcement Learning</a></div>
     <div class="author"><strong>Jialong Wu</strong>, Haixu Wu, Zihan Qiu, Jianmin Wang, Mingsheng Long#</div>
     <div class="periodical"><em>Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2022.</em></div>
     <div class="links">
@@ -74,7 +74,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://proceedings.mlr.press/v205/qiu23a.html">Out-of-Dynamics Imitation Learning from Multimodal Demonstrations</a></div>
+    <div class="title"><a href="https://proceedings.mlr.press/v205/qiu23a.html" target="_blank">Out-of-Dynamics Imitation Learning from Multimodal Demonstrations</a></div>
     <div class="author">Yiwen Qiu, <strong>Jialong Wu</strong>, Zhangjie Cao, Mingsheng Long#</div>
     <div class="periodical"><em>Conference on Robot Learning (<strong>CoRL</strong>), 2022.</em></div>
     <div class="links">
@@ -93,7 +93,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://proceedings.mlr.press/v162/wu22m.html">Flowformer: Linearizing Transformers with Conservation Flows</a></div>
+    <div class="title"><a href="https://proceedings.mlr.press/v162/wu22m.html" target="_blank">Flowformer: Linearizing Transformers with Conservation Flows</a></div>
     <div class="author">Haixu Wu, <strong>Jialong Wu</strong>, Jiehui Xu, Jianmin Wang, Mingsheng Long#</div>
     <div class="periodical"><em>International Conference on Machine Learning (<strong>ICML</strong>), 2022.</em></div>
     <div class="links">

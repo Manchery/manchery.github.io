@@ -6,10 +6,12 @@ layout: homepage
 
 I am currently a Ph.D. student (from fall, 2022) at [Machine Learning Group](https://github.com/thuml) (THUML), [School of Software](https://www.thss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/). Before that, I received my Bachelor's degrees in Software Engineering, and Pure and Applied Mathematics (second degree), from Tsinghua University. In high school, I was quite into competitive programming and used to compete in [Olympiad in Informatics](https://www.noi.cn/) (OI).
 
-My research interests lie in **decision intelligence**, especially working with:
+My research goal is to develop **fundamental techniques for general decision intelligence** and advance their applications in real world. 
+<!-- (both the physical world and the digital world) -->
+Currently, my research interests include:
 
 - **Data-driven reinforcement learning & decision making:** offline reinforcement learning, imitation learning, model-based reinforcement learning
-- **Deep learning:** world model, foundation model, transfer learning
+- **Deep learning:** world models, foundation models, transfer learning
 
 <!-- ## News
 
@@ -26,12 +28,12 @@ My research interests lie in **decision intelligence**, especially working with:
 
 <ul>
   <li>Ph.D. in Software Engineering, 2022-2027 (<em>expected</em>)<br />
-  <a href="https://www.thss.tsinghua.edu.cn/">School of Software</a>, <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a></li>
+  <a href="https://www.thss.tsinghua.edu.cn/" target="_blank">School of Software</a>, <a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a></li>
   <li>Bachelor in Software Engineering, 2018-2022<br />
-  <a href="https://www.thss.tsinghua.edu.cn/">School of Software</a>, <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a><br />
+  <a href="https://www.thss.tsinghua.edu.cn/" target="_blank">School of Software</a>, <a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a><br />
   GPA: 3.98/4.0, Rank: 1/89</li>
   <li>Bachelor in Pure and Applied Mathematics (<em>Second Degree</em>), 2019-2022<br />
-  <a href="https://www.math.tsinghua.edu.cn/">Department of Mathematical Sciences</a>, <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a><br />
+  <a href="https://www.math.tsinghua.edu.cn/" target="_blank">Department of Mathematical Sciences</a>, <a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a><br />
   GPA: 3.75/4.0</li>
 </ul>
 
