@@ -14,9 +14,6 @@
     <link rel="canonical" href="{{ site.canonical }}"/>
     {% endif %}
 
-    <!-- <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
-    <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" /> -->
-    <!-- <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script> -->
     <link rel="icon" href="assets/img/dragon-face_1f432.png" type="image/gif" />
 
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
@@ -94,28 +91,30 @@
 
       {% if site.enable_footnote %}
       <p>
-        <small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small>
+        <small>
+        Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.
         {% if site.enable_statcounter %}
-        <!-- Default Statcounter code for Homepage
-      https://manchery.github.io/ -->
-      <script type="text/javascript">
-        var sc_project=12889235; 
-        var sc_invisible=0; 
-        var sc_security="78e35186"; 
-        var sc_text=2; 
-        var scJsHost = "https://";
-        document.write("<sc"+"ript type='text/javascript' src='" +
-        scJsHost+
-        "statcounter.com/counter/counter.js'></"+"script>");
-        </script>
-        <noscript><div class="statcounter"><a title="Web Analytics"
-        href="https://statcounter.com/" target="_blank"><img
-        class="statcounter"
-        src="https://c.statcounter.com/12889235/0/78e35186/0/"
-        alt="Web Analytics"
-        referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
-        <!-- End of Statcounter Code -->
-      {% endif %}
+         Visitor counter: 
+        <!-- Default Statcounter code for Homepage https://manchery.github.io/ -->
+        <script type="text/javascript">
+          var sc_project=12889235; 
+          var sc_invisible=0; 
+          var sc_security="78e35186"; 
+          var sc_text=2; 
+          var scJsHost = "https://";
+          document.write("<sc"+"ript type='text/javascript' src='" +
+          scJsHost+
+          "statcounter.com/counter/counter.js'></"+"script>");
+          </script>
+          <noscript><div class="statcounter"><a title="Web Analytics"
+          href="https://statcounter.com/" target="_blank"><img
+          class="statcounter"
+          src="https://c.statcounter.com/12889235/0/78e35186/0/"
+          alt="Web Analytics"
+          referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+          <!-- End of Statcounter Code -->
+        {% endif %}
+        </small>
       </p>
       {% endif %}
      

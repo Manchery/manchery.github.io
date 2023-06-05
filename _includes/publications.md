@@ -23,7 +23,6 @@
     <div class="links">
       <a href="https://arxiv.org/abs/2305.18499" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="assets/pub/arxiv2023_contextwm/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
-      <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>
   </div>
 </div>
@@ -41,7 +40,6 @@
     <div class="links">
       <a href="https://arxiv.org/abs/2302.00864" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="assets/pub/icml2023_clipood/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
-      <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>
   </div>
 </div>
@@ -62,7 +60,6 @@
       <a href="assets/pub/nips2022_spot/poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
       <a href="assets/pub/nips2022_spot/slide.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slide</a>
       <a href="assets/pub/nips2022_spot/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
-      <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>
   </div>
 </div>
@@ -81,7 +78,6 @@
       <a href="https://arxiv.org/abs/2211.06839" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://github.com/EvieQ01/OODIL" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="assets/pub/corl2022_oodil/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
-      <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>
   </div>
 </div>
@@ -100,15 +96,12 @@
       <a href="https://arxiv.org/abs/2202.06258" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://github.com/thuml/Flowformer" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="assets/pub/icml2022_flowformer/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
-      <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>
   </div>
 </div>
 </li>
 
 <div><em>* Equal Contribution, # Corresponding Author</em></div>
-  
-<!-- <br> -->
 
 </ol>
 </div>
