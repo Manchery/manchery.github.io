@@ -681,3 +681,18 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+.avator {
+  position: relative;
+}
+
+.hover_img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: none;
+}
+
+.avator:hover .hover_img {
+  display: inline;
+}

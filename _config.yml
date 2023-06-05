@@ -8,7 +8,7 @@ email: wujialong0229 (at) gmail.com
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Jialong Wu
 description: Jialong Wu is a Ph.D. student at Tsinghua University.
-# canonical: https://minimal-light-theme.yliu.me/
+canonical: https://manchery.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -21,6 +21,7 @@ github_link: https://github.com/manchery
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/jialong.jpg
+avatar_hover: ./assets/img/jialong_photo.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
