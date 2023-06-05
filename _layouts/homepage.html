@@ -93,10 +93,9 @@
       <br>
 
       {% if site.enable_footnote %}
-      <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
-      {% endif %}
-     
-      {% if site.enable_statcounter %}
+      <p>
+        <small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small>
+        {% if site.enable_statcounter %}
         <!-- Default Statcounter code for Homepage
       https://manchery.github.io/ -->
       <script type="text/javascript">
@@ -117,7 +116,9 @@
         referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
         <!-- End of Statcounter Code -->
       {% endif %}
-
+      </p>
+      {% endif %}
+     
       </section>
       <footer>
         
