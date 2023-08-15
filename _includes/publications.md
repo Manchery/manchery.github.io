@@ -34,11 +34,12 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2302.00864" target="_blank">CLIPood: Generalizing CLIP to Out-of-Distributions</a></div>
+    <div class="title"><a href="https://proceedings.mlr.press/v202/shu23a.html" target="_blank">CLIPood: Generalizing CLIP to Out-of-Distributions</a></div>
     <div class="author">Yang Shu*, Xingzhuo Guo*, <strong>Jialong Wu</strong>, Ximei Wang, Jianmin Wang, Mingsheng Long#</div>
     <div class="periodical"><em>International Conference on Machine Learning (<strong>ICML</strong>), 2023.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2302.00864" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="https://github.com/thuml/CLIPood" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="assets/pub/icml2023_clipood/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
   </div>

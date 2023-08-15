@@ -1,4 +1,3 @@
-
 @InProceedings{pmlr-v162-wu22m,
   title = 	 {Flowformer: Linearizing Transformers with Conservation Flows},
   author =       {Wu, Haixu and Wu, Jialong and Xu, Jiehui and Wang, Jianmin and Long, Mingsheng},
