@@ -1,13 +1,13 @@
-## Services
+## Academic Services
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Conference Reviewer | PC Member</h4>
 
 <ul style="margin:0 0 5px;">
   <li>International Conference on Machine Learning (<a href="http://icml.cc/" target="_blank">ICML</a>) 2022-2023</li>
   <li>Conference on Neural Information Processing Systems (<a href="https://neurips.cc/" target="_blank">NeurIPS</a>) 2023</li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Teaching Assistants</h4>
+<h4 style="margin:0 10px 0;">Teaching Assistant</h4>
 
 <ul style="margin:0 0 20px;">
   <li>Deep Learning, Fall 2023. Instructor: Prof. <a href="http://ise.thss.tsinghua.edu.cn/~mlong/" target="_blank">Mingsheng Long</a></li>
