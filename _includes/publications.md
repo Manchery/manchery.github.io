@@ -11,7 +11,25 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/pub/arxiv2023_contextwm/thumbnail.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/pub/arxiv2023_harmonywm/thumbnail.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2310.00344" target="_blank">Harmony World Models: Boosting Sample Efficiency for Model-based Reinforcement Learning
+</a></div>
+    <div class="author">Haoyu Ma*, <strong>Jialong Wu</strong>*, Ningya Feng, Jianmin Wang, Mingsheng Long#</div>
+    <div class="periodical"><em>arXiv preprint, 2023.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2310.00344" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="assets/pub/arxiv2023_harmonywm/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+    </div>
+  </div>
+</div>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/pub/nips2023_contextwm/thumbnail.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">NeurIPS</abbr>
   </div>
 
@@ -22,7 +40,7 @@
     <div class="periodical"><em>Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2023. (Accepted)</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2305.18499" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
-      <a href="assets/pub/arxiv2023_contextwm/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+      <a href="assets/pub/nips2023_contextwm/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
   </div>
 </div>

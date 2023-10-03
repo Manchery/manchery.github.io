@@ -1,0 +1,8 @@
+@misc{ma2023harmony,
+      title={Harmony World Models: Boosting Sample Efficiency for Model-based Reinforcement Learning}, 
+      author={Haoyu Ma and Jialong Wu and Ningya Feng and Jianmin Wang and Mingsheng Long},
+      year={2023},
+      eprint={2310.00344},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
