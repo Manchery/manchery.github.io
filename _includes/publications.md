@@ -42,6 +42,7 @@
       <a href="https://arxiv.org/abs/2305.18499" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://github.com/thuml/ContextWM" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="assets/pub/nips2023_contextwm/poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
+      <a href="assets/pub/nips2023_contextwm/slides.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
       <a href="https://mp.weixin.qq.com/s/EZD0Lj87Rzml58NKJ-Gsdw" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Blog</a>
       <a href="assets/pub/nips2023_contextwm/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
