@@ -1,8 +1,6 @@
-@misc{wu2023pretraining,
-      title={Pre-training Contextualized World Models with In-the-wild Videos for Reinforcement Learning}, 
-      author={Jialong Wu and Haoyu Ma and Chaoyi Deng and Mingsheng Long},
-      year={2023},
-      eprint={2305.18499},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{wu2023pre,
+  title={Pre-training Contextualized World Models with In-the-wild Videos for Reinforcement Learning},
+  author={Jialong Wu and Haoyu Ma and Chaoyi Deng and Mingsheng Long},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2023}
 }
