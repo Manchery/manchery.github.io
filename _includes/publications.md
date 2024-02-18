@@ -34,7 +34,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2305.18499" target="_blank">Pre-training Contextualized World Models with In-the-wild Videos for Reinforcement Learning
+    <div class="title"><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/7ce1cbededb4b0d6202847ac1b484ee8-Abstract-Conference.html" target="_blank">Pre-training Contextualized World Models with In-the-wild Videos for Reinforcement Learning
 </a></div>
     <div class="author"><strong>Jialong Wu</strong>*, Haoyu Ma*, Chaoyi Deng, Mingsheng Long#</div>
     <div class="periodical"><em>Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2023.</em></div>
