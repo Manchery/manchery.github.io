@@ -1,6 +1,11 @@
-@inproceedings{wu2023pre,
-  title={Pre-training Contextualized World Models with In-the-wild Videos for Reinforcement Learning},
-  author={Jialong Wu and Haoyu Ma and Chaoyi Deng and Mingsheng Long},
-  booktitle={Advances in Neural Information Processing Systems},
-  year={2023}
+@inproceedings{NEURIPS2023_7ce1cbed,
+ author = {Wu, Jialong and Ma, Haoyu and Deng, Chaoyi and Long, Mingsheng},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {A. Oh and T. Neumann and A. Globerson and K. Saenko and M. Hardt and S. Levine},
+ pages = {39719--39743},
+ publisher = {Curran Associates, Inc.},
+ title = {Pre-training Contextualized World Models with In-the-wild Videos for Reinforcement Learning},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2023/file/7ce1cbededb4b0d6202847ac1b484ee8-Paper-Conference.pdf},
+ volume = {36},
+ year = {2023}
 }
