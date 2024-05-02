@@ -22,6 +22,7 @@
     <div class="periodical"><em>International Conference on Machine Learning (<strong>ICML</strong>), 2024.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2310.00344" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="https://www.bilibili.com/video/BV1Tj421U7kk/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Talk</a>
       <a href="assets/pub/icml2024_harmonydream/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
   </div>
