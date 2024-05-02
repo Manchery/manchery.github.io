@@ -11,18 +11,18 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/pub/arxiv2023_harmonywm/thumbnail.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
+    <img src="assets/pub/icml2024_harmonydream/thumbnail.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICML</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2310.00344" target="_blank">HarmonyDream: Task Harmonization Inside World Models
 </a></div>
     <div class="author">Haoyu Ma*, <strong>Jialong Wu</strong>*, Ningya Feng, Chenjun Xiao, Dong Li, Jianye Hao, Jianmin Wang, Mingsheng Long#</div>
-    <div class="periodical"><em>arXiv preprint, 2023.</em></div>
+    <div class="periodical"><em>International Conference on Machine Learning (<strong>ICML</strong>), 2024.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2310.00344" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
-      <a href="assets/pub/arxiv2023_harmonywm/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+      <a href="assets/pub/icml2024_harmonydream/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
   </div>
 </div>
