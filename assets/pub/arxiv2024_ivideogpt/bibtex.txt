@@ -1,0 +1,8 @@
+@misc{wu2024ivideogpt,
+      title={iVideoGPT: Interactive VideoGPTs are Scalable World Models}, 
+      author={Jialong Wu and Shaofeng Yin and Ningya Feng and Xu He and Dong Li and Jianye Hao and Mingsheng Long},
+      year={2024},
+      eprint={2405.15223},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

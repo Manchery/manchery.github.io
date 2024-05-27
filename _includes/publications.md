@@ -11,6 +11,42 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/pub/arxiv2024_ivideogpt/thumbnail.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2310.00344" target="_blank">iVideoGPT: Interactive VideoGPTs are Scalable World Models
+</a></div>
+    <div class="author"><strong>Jialong Wu</strong>*, Shaofeng Yin*, Ningya Feng, Xu He, Dong Li, Jianye Hao, Mingsheng Long#</div>
+    <div class="periodical"><em>arXiv preprint, 2024.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2405.15223" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="assets/pub/arxiv2024_ivideogpt/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+    </div>
+  </div>
+</div>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/pub/arxiv2024_codezero/thumbnail.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2310.00344" target="_blank">Supercompiler Code Optimization with Zero-Shot Reinforcement Learning
+</a></div>
+    <div class="author"><strong>Jialong Wu</strong>*, Chaoyi Deng*, Jianmin Wang, Mingsheng Long#</div>
+    <div class="periodical"><em>arXiv preprint, 2024.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2404.16077" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="assets/pub/arxiv2024_codezero/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+    </div>
+  </div>
+</div>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/pub/icml2024_harmonydream/thumbnail.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICML</abbr>
   </div>
