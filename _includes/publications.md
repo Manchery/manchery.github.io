@@ -21,9 +21,10 @@
     <div class="author"><strong>Jialong Wu</strong>*, Shaofeng Yin*, Ningya Feng, Xu He, Dong Li, Jianye Hao, Mingsheng Long#</div>
     <div class="periodical"><em>arXiv preprint, 2024.</em></div>
     <div class="links">
+      <a href="https://thuml.github.io/iVideoGPT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://arxiv.org/abs/2405.15223" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://github.com/thuml/iVideoGPT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://huggingface.co/thuml/ivideogpt-oxe-64-act-free" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Model</a>
+      <a href="https://huggingface.co/thuml/ivideogpt-oxe-64-act-free" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Models</a>
       <a href="assets/pub/arxiv2024_ivideogpt/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
   </div>
