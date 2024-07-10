@@ -64,6 +64,7 @@
       <a href="https://github.com/thuml/HarmonyDream" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="assets/pub/icml2024_harmonydream/slides.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
       <a href="https://www.bilibili.com/video/BV1Tj421U7kk/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Talk</a>
+      <a href="https://mp.weixin.qq.com/s/2Oi0cMyIczfiV7cy3cgq9w" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Blog</a>
       <a href="assets/pub/icml2024_harmonydream/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
   </div>
