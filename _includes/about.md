@@ -4,7 +4,7 @@ I am currently a second-year Ph.D. student at <a href="https://github.com/thuml"
 
 My research goal is to develop **fundamental techniques in pursuit of general decision intelligence** and advance their applications in the real world (both physically and computationally). Currently, my research interests include:
 
-- **Data-driven reinforcement learning & decision making:** offline reinforcement learning, imitation learning, model-based reinforcement learning
+- **Data-driven reinforcement learning & decision making:** model-based reinforcement learning, offline reinforcement learning, imitation learning
 - **Deep learning:** world models, foundation models, transfer learning
 
 <h3 style="margin-bottom:15px;">My Quote</h3>
