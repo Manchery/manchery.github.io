@@ -1,8 +1,0 @@
-@misc{wu2024supercompiler,
-      title={Supercompiler Code Optimization with Zero-Shot Reinforcement Learning}, 
-      author={Jialong Wu and Chaoyi Deng and Jianmin Wang and Mingsheng Long},
-      year={2024},
-      eprint={2404.16077},
-      archivePrefix={arXiv},
-      primaryClass={cs.PL}
-}

@@ -1,0 +1,9 @@
+@misc{deng2024compilerdreamlearningcompilerworld,
+      title={CompilerDream: Learning a Compiler World Model for General Code Optimization}, 
+      author={Chaoyi Deng and Jialong Wu and Ningya Feng and Jianmin Wang and Mingsheng Long},
+      year={2024},
+      eprint={2404.16077},
+      archivePrefix={arXiv},
+      primaryClass={cs.PL},
+      url={https://arxiv.org/abs/2404.16077}, 
+}
