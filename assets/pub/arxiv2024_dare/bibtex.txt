@@ -1,0 +1,9 @@
+@misc{feng2024longsequencerecommendationmodelsneed,
+      title={Long-Sequence Recommendation Models Need Decoupled Embeddings}, 
+      author={Ningya Feng and Junwei Pan and Jialong Wu and Baixu Chen and Ximei Wang and Qian Li and Xian Hu and Jie Jiang and Mingsheng Long},
+      year={2024},
+      eprint={2410.02604},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR},
+      url={https://arxiv.org/abs/2410.02604}, 
+}
