@@ -36,7 +36,6 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2410.02604" target="_blank">Long-Sequence Recommendation Models Need Decoupled Embeddings
-
 </a></div>
     <div class="author">Ningya Feng*, Junwei Pan*, <strong>Jialong Wu</strong>*, Baixu Chen, Ximei Wang, Qian Li, Xian Hu, Jie Jiang, Mingsheng Long#</div>
     <div class="periodical"><em>arXiv preprint, 2024.</em></div>
