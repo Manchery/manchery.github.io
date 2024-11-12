@@ -62,6 +62,7 @@
       <a href="https://arxiv.org/abs/2405.15223" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://github.com/thuml/iVideoGPT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://huggingface.co/thuml/ivideogpt-oxe-64-act-free" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Models</a>
+      <a href="assets/pub/nips2024_ivideogpt/slides.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
       <a href="assets/pub/nips2024_ivideogpt/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
   </div>
