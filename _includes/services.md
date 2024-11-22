@@ -21,5 +21,5 @@
 <h4 style="margin:0 10px 0;">Student Counselor</h4>
 
 <ul style="margin:0 0 20px;">
-  <li>Undergraduate Student Counselor (本科生带班辅导员), <a href="https://www.tsinghua.edu.cn/info/1177/112022.htm">Dushi College</a>, 2024–2027 (<em>expected</em>)</li>
+  <li>Undergraduate Student Counselor (本科生带班辅导员), <a href="https://www.dsc.tsinghua.edu.cn/">Dushi College</a>, 2024–2027 (<em>expected</em>)</li>
 </ul>
