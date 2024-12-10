@@ -64,6 +64,7 @@
       <a href="https://huggingface.co/collections/thuml/ivideogpt-674c59cae32231024d82d6c5" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Models</a>
       <a href="assets/pub/nips2024_ivideogpt/poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
       <a href="assets/pub/nips2024_ivideogpt/slides.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+      <a href="https://mp.weixin.qq.com/s/D94aamdqtO9WLekr4BSCUw" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Blog</a>
       <a href="assets/pub/nips2024_ivideogpt/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
   </div>
