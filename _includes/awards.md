@@ -1,6 +1,7 @@
 ## Honors & Awards
 
 - National Scholarship (国家奖学金, Top 2%), 2020, 2024
+- Excellent Teaching Assistant Award of Tsinghua (清华大学优秀助教奖, Top 200), 2024
 - NeurIPS 2023 Top Reviewer [[Link]](https://neurips.cc/Conferences/2023/ProgramCommittee#top-reivewers)
 - Future Researcher Scholarship of Tsinghua (清华大学未来学者奖学金), 2022
 - Outstanding Graduates of Tsinghua (清华大学优秀毕业生, Top 2%), 2022
