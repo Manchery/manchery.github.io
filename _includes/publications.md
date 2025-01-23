@@ -38,7 +38,7 @@
     <div class="title"><a href="https://arxiv.org/abs/2410.02604" target="_blank">Long-Sequence Recommendation Models Need Decoupled Embeddings
 </a></div>
     <div class="author">Ningya Feng*, Junwei Pan*, <strong>Jialong Wu</strong>*, Baixu Chen, Ximei Wang, Qian Li, Xian Hu, Jie Jiang, Mingsheng Long#</div>
-    <div class="periodical"><em>International Conference on Learning Representations (<strong>ICLR</strong>), 2024.</em></div>
+    <div class="periodical"><em>International Conference on Learning Representations (<strong>ICLR</strong>), 2025.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2410.02604" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="assets/pub/iclr2025_dare/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
