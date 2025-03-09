@@ -53,7 +53,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2410.02604" target="_blank">Long-Sequence Recommendation Models Need Decoupled Embeddings
+    <div class="title"><a href="https://openreview.net/forum?id=jkpGIxSsUD" target="_blank">Long-Sequence Recommendation Models Need Decoupled Embeddings
 </a></div>
     <div class="author">Ningya Feng*, Junwei Pan*, <strong>Jialong Wu</strong>*, Baixu Chen, Ximei Wang, Qian Li, Xian Hu, Jie Jiang, Mingsheng Long#</div>
     <div class="periodical"><em>International Conference on Learning Representations (<strong>ICLR</strong>), 2025.</em></div>
@@ -72,7 +72,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2405.15223" target="_blank">iVideoGPT: Interactive VideoGPTs are Scalable World Models
+    <div class="title"><a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/7dbb5bfab324e3b86af9bd0df15498dd-Abstract-Conference.html" target="_blank">iVideoGPT: Interactive VideoGPTs are Scalable World Models
 </a></div>
     <div class="author"><strong>Jialong Wu</strong>*, Shaofeng Yin*, Ningya Feng, Xu He, Dong Li, Jianye Hao, Mingsheng Long#</div>
     <div class="periodical"><em>Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024.</em></div>
