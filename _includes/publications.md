@@ -20,6 +20,7 @@
 </a></div>
     <div class="author">Shaofeng Yin*, <strong>Jialong Wu</strong>*, Siqiao Huang, Xingjian Su, Xu He, Jianye Hao, Mingsheng Long#</div>
     <div class="periodical"><em>arXiv preprint, 2025.</em></div>
+    <!-- <div class="periodical"><em><strong>ICLR Workshop</strong> on World Models, 2025.</em></div> -->
     <div class="links">
       <a href="https://arxiv.org/abs/2502.01366" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="assets/pub/arxiv2025_trajworld/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
@@ -58,6 +59,7 @@
     <div class="periodical"><em>International Conference on Learning Representations (<strong>ICLR</strong>), 2025.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2410.02604" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="https://github.com/thuml/DARE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="assets/pub/iclr2025_dare/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
   </div>
