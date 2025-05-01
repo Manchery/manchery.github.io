@@ -11,25 +11,6 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/pub/arxiv2025_trajworld/thumbnail.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2502.01366" target="_blank">Trajectory World Models for Heterogeneous Environments
-</a></div>
-    <div class="author">Shaofeng Yin*, <strong>Jialong Wu</strong>*, Siqiao Huang, Xingjian Su, Xu He, Jianye Hao, Mingsheng Long#</div>
-    <div class="periodical"><em>arXiv preprint, 2025.</em></div>
-    <!-- <div class="periodical"><em><strong>ICLR Workshop</strong> on World Models, 2025.</em></div> -->
-    <div class="links">
-      <a href="https://arxiv.org/abs/2502.01366" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
-      <a href="assets/pub/arxiv2025_trajworld/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
-    </div>
-  </div>
-</div>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/pub/arxiv2024_compilerdream/thumbnail.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv</abbr>
   </div>
@@ -42,6 +23,25 @@
     <div class="links">
       <a href="https://arxiv.org/abs/2404.16077" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="assets/pub/arxiv2024_compilerdream/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+    </div>
+  </div>
+</div>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/pub/arxiv2025_trajworld/thumbnail.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICML</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2502.01366" target="_blank">Trajectory World Models for Heterogeneous Environments
+</a></div>
+    <div class="author">Shaofeng Yin*, <strong>Jialong Wu</strong>*, Siqiao Huang, Xingjian Su, Xu He, Jianye Hao, Mingsheng Long#</div>
+    <div class="periodical"><em>International Conference on Machine Learning (<strong>ICML</strong>), 2025.</em></div>
+    <!-- <div class="periodical"><em><strong>ICLR Workshop</strong> on World Models, 2025.</em></div> -->
+    <div class="links">
+      <a href="https://arxiv.org/abs/2502.01366" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="assets/pub/arxiv2025_trajworld/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
   </div>
 </div>
