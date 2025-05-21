@@ -11,7 +11,43 @@
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/pub/arxiv2025_trajworld/thumbnail.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/pub/arxiv2025_rlvrworld/thumbnail.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2505.13934" target="_blank">RLVR-World: Training World Models with Reinforcement Learning
+</a></div>
+    <div class="author"><strong>Jialong Wu</strong>, Shaofeng Yin, Ningya Feng, Mingsheng Long#</div>
+    <div class="periodical"><em>arXiv preprint, 2025.</em></div>
+    <div class="links">
+      <a href="https://thuml.github.io/RLVR-World/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://arxiv.org/abs/2505.13934" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="assets/pub/arxiv2025_rlvrworld/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/pub/arxiv2025_vid2world/thumbnail.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2505.14357" target="_blank">Vid2World: Crafting Video Diffusion Models to Interactive World Models
+</a></div>
+    <div class="author">Siqiao Huang*, <strong>Jialong Wu</strong>*, Qixing Zhou, Shangchen Miao, Mingsheng Long#</div>
+    <div class="periodical"><em>arXiv preprint, 2025.</em></div>
+    <div class="links">
+      <a href="http://knightnemo.github.io/vid2world/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://arxiv.org/abs/2505.14357" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="assets/pub/arxiv2025_vid2world/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/pub/icml2025_trajworld/thumbnail.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICML</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -19,17 +55,17 @@
 </a></div>
     <div class="author">Shaofeng Yin*, <strong>Jialong Wu</strong>*, Siqiao Huang, Xingjian Su, Xu He, Jianye Hao, Mingsheng Long#</div>
     <div class="periodical"><em>International Conference on Machine Learning (<strong>ICML</strong>), 2025.</em></div>
-    <!-- <div class="periodical"><em><strong>ICLR Workshop</strong> on World Models, 2025.</em></div> -->
+    <div class="periodical"><em>ICLR Workshop on World Models, 2025.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2502.01366" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
-      <a href="assets/pub/arxiv2025_trajworld/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+      <a href="assets/pub/icml2025_trajworld/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
   </div>
 </div>
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/pub/arxiv2024_compilerdream/thumbnail.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/pub/kdd2025_compilerdream/thumbnail.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">KDD</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -39,7 +75,7 @@
     <div class="periodical"><em>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2025.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2404.16077" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
-      <a href="assets/pub/arxiv2024_compilerdream/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+      <a href="assets/pub/kdd2025_compilerdream/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
   </div>
 </div>

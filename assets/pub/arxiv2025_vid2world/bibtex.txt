@@ -1,0 +1,9 @@
+@misc{huang2025vid2worldcraftingvideodiffusion,
+      title={Vid2World: Crafting Video Diffusion Models to Interactive World Models}, 
+      author={Siqiao Huang and Jialong Wu and Qixing Zhou and Shangchen Miao and Mingsheng Long},
+      year={2025},
+      eprint={2505.14357},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.14357}, 
+}
