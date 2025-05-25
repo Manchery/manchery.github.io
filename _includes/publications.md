@@ -58,6 +58,7 @@
     <div class="periodical"><em>ICLR Workshop on World Models, 2025.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2502.01366" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="assets/pub/icml2025_trajworld/poster_workshop.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
       <a href="assets/pub/icml2025_trajworld/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
   </div>
