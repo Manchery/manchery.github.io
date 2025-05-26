@@ -4,7 +4,7 @@ I am currently a third-year Ph.D. student at <a href="https://github.com/thuml" 
 
 My research goal is to develop **fundamental techniques in pursuit of general autonomous intelligence** and advance their applications in the real world (both physically and digitally). Currently, my research interests include:
 
-- **World models:** generative models, foundation models, transfer learning
+- **World models:** generative models, multimodal models, transfer learning
 - **Scalable decision making:** model-based reinforcement learning, offline reinforcement learning, imitation learning
 
 <h3 style="margin-bottom:15px;">My Quote</h3>
