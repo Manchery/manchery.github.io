@@ -43,6 +43,7 @@
     <div class="links">
       <a href="http://knightnemo.github.io/vid2world/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://arxiv.org/abs/2505.14357" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="https://x.com/KnightNemo_/status/1925094869388952026" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Twitter</a>
       <a href="assets/pub/arxiv2025_vid2world/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
   </div>
