@@ -14,4 +14,6 @@ layout: homepage
 
 {% include_relative _includes/education.md %}
 
+{% include_relative _includes/experience.md %}
+
 {% include_relative _includes/awards.md %}
