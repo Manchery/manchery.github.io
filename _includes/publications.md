@@ -80,6 +80,7 @@
     <div class="periodical"><em>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2025.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2404.16077" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="https://github.com/thuml/CompilerDream" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="assets/pub/kdd2025_compilerdream/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
   </div>
