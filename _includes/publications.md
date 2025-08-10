@@ -75,7 +75,7 @@
     <abbr class="badge">KDD</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2404.16077" target="_blank">CompilerDream: Learning a Compiler World Model for General Code Optimization
+    <div class="title"><a href="https://dl.acm.org/doi/10.1145/3711896.3736887" target="_blank">CompilerDream: Learning a Compiler World Model for General Code Optimization
 </a></div>
     <div class="author">Chaoyi Deng*, <strong>Jialong Wu</strong>*, Ningya Feng, Jianmin Wang, Mingsheng Long#</div>
     <div class="periodical"><em>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2025.</em></div>
