@@ -51,6 +51,23 @@
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/pub/techreport2025_seed1.5vl/thumbnail.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Tech Report</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2505.07062" target="_blank">Seed1.5-VL Technical Report</a></div>
+    <div class="author">Dong Guo, Faming Wu, Feida Zhu, Fuxing Leng, Guang Shi, Haobin Chen, Haoqi Fan, ... <strong>Jialong Wu</strong> <i>(Contributor)</i>, ...</div>
+    <div class="periodical"><em>Technical report, 2025.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2505.07062" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="https://github.com/ByteDance-Seed/Seed1.5-VL" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="assets/pub/techreport2025_seed1.5vl/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/pub/icml2025_trajworld/thumbnail.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICML</abbr>
   </div>

@@ -1,0 +1,6 @@
+@article{seed2025seed1_5vl,
+  title={Seed1.5-VL Technical Report},
+  author={ByteDance Seed Team},
+  journal={arXiv preprint arXiv:2505.07062},
+  year={2025}
+}
