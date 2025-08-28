@@ -59,6 +59,7 @@
     <div class="author">Dong Guo, Faming Wu, Feida Zhu, Fuxing Leng, Guang Shi, Haobin Chen, Haoqi Fan, ... <strong>Jialong Wu</strong> <i>(Contributor)</i>, ...</div>
     <div class="periodical"><em>Technical report, 2025.</em></div>
     <div class="links">
+      <a href="https://seed.bytedance.com/zh/tech/seed1_5_vl" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://arxiv.org/abs/2505.07062" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://github.com/ByteDance-Seed/Seed1.5-VL" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="assets/pub/techreport2025_seed1.5vl/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
