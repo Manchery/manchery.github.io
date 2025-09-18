@@ -11,27 +11,6 @@
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/pub/arxiv2025_rlvrworld/thumbnail.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2505.13934" target="_blank">RLVR-World: Training World Models with Reinforcement Learning
-</a></div>
-    <div class="author"><strong>Jialong Wu</strong>, Shaofeng Yin, Ningya Feng, Mingsheng Long#</div>
-    <div class="periodical"><em>arXiv preprint, 2025.</em></div>
-    <div class="links">
-      <a href="https://thuml.github.io/RLVR-World/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://arxiv.org/abs/2505.13934" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
-      <a href="https://github.com/thuml/RLVR-World" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://huggingface.co/collections/thuml/rlvr-world-682f331c75a904b8febc366a" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Models</a>
-      <a href="https://huggingface.co/collections/thuml/rlvr-world-682f331c75a904b8febc366a" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Datasets</a>
-      <a href="assets/pub/arxiv2025_rlvrworld/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/pub/arxiv2025_vid2world/thumbnail.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv</abbr>
   </div>
@@ -45,6 +24,27 @@
       <a href="https://arxiv.org/abs/2505.14357" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://x.com/KnightNemo_/status/1925094869388952026" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Twitter</a>
       <a href="assets/pub/arxiv2025_vid2world/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/pub/nips2025_rlvrworld/thumbnail.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">NeurIPS</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2505.13934" target="_blank">RLVR-World: Training World Models with Reinforcement Learning
+</a></div>
+    <div class="author"><strong>Jialong Wu</strong>, Shaofeng Yin, Ningya Feng, Mingsheng Long#</div>
+    <div class="periodical"><em>Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025.</em></div>
+    <div class="links">
+      <a href="https://thuml.github.io/RLVR-World/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://arxiv.org/abs/2505.13934" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="https://github.com/thuml/RLVR-World" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://huggingface.co/collections/thuml/rlvr-world-682f331c75a904b8febc366a" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Models</a>
+      <a href="https://huggingface.co/collections/thuml/rlvr-world-682f331c75a904b8febc366a" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Datasets</a>
+      <a href="assets/pub/nips2025_rlvrworld/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
   </div>
 </div>
