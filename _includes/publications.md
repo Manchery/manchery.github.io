@@ -14,7 +14,7 @@
     <img src="assets/pub/arxiv2025_vid2world/thumbnail.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-top: 5px;padding-bottom: 5px;">
     <div class="title"><a href="https://arxiv.org/abs/2505.14357" target="_blank">Vid2World: Crafting Video Diffusion Models to Interactive World Models
 </a></div>
     <div class="author">Siqiao Huang*, <strong>Jialong Wu</strong>*, Qixing Zhou, Shangchen Miao, Mingsheng Long#</div>
@@ -33,7 +33,7 @@
     <img src="assets/pub/nips2025_rlvrworld/thumbnail.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">NeurIPS</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9 highlight" style="position: relative;padding-right: 15px;padding-left: 20px;padding-top: 5px;padding-bottom: 5px;">
     <div class="title"><a href="https://arxiv.org/abs/2505.13934" target="_blank">RLVR-World: Training World Models with Reinforcement Learning
 </a></div>
     <div class="author"><strong>Jialong Wu</strong>, Shaofeng Yin, Ningya Feng, Mingsheng Long#</div>
@@ -54,7 +54,7 @@
     <img src="assets/pub/techreport2025_seed1.5vl/thumbnail.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Tech Report</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9 highlight" style="position: relative;padding-right: 15px;padding-left: 20px;padding-top: 5px;padding-bottom: 5px;">
     <div class="title"><a href="https://arxiv.org/abs/2505.07062" target="_blank">Seed1.5-VL Technical Report</a></div>
     <div class="author">Dong Guo, Faming Wu, Feida Zhu, Fuxing Leng, Guang Shi, Haobin Chen, Haoqi Fan, ... <strong>Jialong Wu</strong> <i>(Contributor)</i>, ...</div>
     <div class="periodical"><em>Technical report, 2025.</em></div>
@@ -72,7 +72,7 @@
     <img src="assets/pub/icml2025_trajworld/thumbnail.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICML</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-top: 5px;padding-bottom: 5px;">
     <div class="title"><a href="https://arxiv.org/abs/2502.01366" target="_blank">Trajectory World Models for Heterogeneous Environments
 </a></div>
     <div class="author">Shaofeng Yin*, <strong>Jialong Wu</strong>*, Siqiao Huang, Xingjian Su, Xu He, Jianye Hao, Mingsheng Long#</div>
@@ -92,7 +92,7 @@
     <img src="assets/pub/kdd2025_compilerdream/thumbnail.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">KDD</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-top: 5px;padding-bottom: 5px;">
     <div class="title"><a href="https://dl.acm.org/doi/10.1145/3711896.3736887" target="_blank">CompilerDream: Learning a Compiler World Model for General Code Optimization
 </a></div>
     <div class="author">Chaoyi Deng*, <strong>Jialong Wu</strong>*, Ningya Feng, Jianmin Wang, Mingsheng Long#</div>
@@ -110,7 +110,7 @@
     <img src="assets/pub/iclr2025_dare/thumbnail.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICLR</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-top: 5px;padding-bottom: 5px;">
     <div class="title"><a href="https://openreview.net/forum?id=jkpGIxSsUD" target="_blank">Long-Sequence Recommendation Models Need Decoupled Embeddings
 </a></div>
     <div class="author">Ningya Feng*, Junwei Pan*, <strong>Jialong Wu</strong>*, Baixu Chen, Ximei Wang, Qian Li, Xian Hu, Jie Jiang, Mingsheng Long#</div>
@@ -128,7 +128,7 @@
     <img src="assets/pub/nips2024_ivideogpt/thumbnail.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">NeurIPS</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9 highlight" style="position: relative;padding-right: 15px;padding-left: 20px;padding-top: 5px;padding-bottom: 5px;">
     <div class="title"><a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/7dbb5bfab324e3b86af9bd0df15498dd-Abstract-Conference.html" target="_blank">iVideoGPT: Interactive VideoGPTs are Scalable World Models
 </a></div>
     <div class="author"><strong>Jialong Wu</strong>*, Shaofeng Yin*, Ningya Feng, Xu He, Dong Li, Jianye Hao, Mingsheng Long#</div>
@@ -151,7 +151,7 @@
     <img src="assets/pub/icml2024_harmonydream/thumbnail.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICML</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9 highlight" style="position: relative;padding-right: 15px;padding-left: 20px;padding-top: 5px;padding-bottom: 5px;">
     <div class="title"><a href="https://proceedings.mlr.press/v235/ma24o.html" target="_blank">HarmonyDream: Task Harmonization Inside World Models
 </a></div>
     <div class="author">Haoyu Ma*, <strong>Jialong Wu</strong>*, Ningya Feng, Chenjun Xiao, Dong Li, Jianye Hao, Jianmin Wang, Mingsheng Long#</div>
@@ -173,7 +173,7 @@
     <img src="assets/pub/nips2023_contextwm/thumbnail.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">NeurIPS</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9 highlight" style="position: relative;padding-right: 15px;padding-left: 20px;padding-top: 5px;padding-bottom: 5px;">
     <div class="title"><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/7ce1cbededb4b0d6202847ac1b484ee8-Abstract-Conference.html" target="_blank">Pre-training Contextualized World Models with In-the-wild Videos for Reinforcement Learning
 </a></div>
     <div class="author"><strong>Jialong Wu</strong>*, Haoyu Ma*, Chaoyi Deng, Mingsheng Long#</div>
@@ -194,7 +194,7 @@
     <img src="assets/pub/icml2023_clipood/thumbnail.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICML</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-top: 5px;padding-bottom: 5px;">
     <div class="title"><a href="https://proceedings.mlr.press/v202/shu23a.html" target="_blank">CLIPood: Generalizing CLIP to Out-of-Distributions</a></div>
     <div class="author">Yang Shu*, Xingzhuo Guo*, <strong>Jialong Wu</strong>, Ximei Wang, Jianmin Wang, Mingsheng Long#</div>
     <div class="periodical"><em>International Conference on Machine Learning (<strong>ICML</strong>), 2023.</em></div>
@@ -211,7 +211,7 @@
     <img src="assets/pub/nips2022_spot/thumbnail.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">NeurIPS</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9 highlight" style="position: relative;padding-right: 15px;padding-left: 20px;padding-top: 5px;padding-bottom: 5px;">
     <div class="title"><a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/caa934a507a952698d54efb24845fc4b-Abstract-Conference.html" target="_blank">Supported Policy Optimization for Offline Reinforcement Learning</a></div>
     <div class="author"><strong>Jialong Wu</strong>, Haixu Wu, Zihan Qiu, Jianmin Wang, Mingsheng Long#</div>
     <div class="periodical"><em>Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2022.</em></div>
@@ -230,7 +230,7 @@
     <img src="assets/pub/corl2022_oodil/thumbnail.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CoRL</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-top: 5px;padding-bottom: 5px;">
     <div class="title"><a href="https://proceedings.mlr.press/v205/qiu23a.html" target="_blank">Out-of-Dynamics Imitation Learning from Multimodal Demonstrations</a></div>
     <div class="author">Yiwen Qiu, <strong>Jialong Wu</strong>, Zhangjie Cao, Mingsheng Long#</div>
     <div class="periodical"><em>Conference on Robot Learning (<strong>CoRL</strong>), 2022.</em></div>
@@ -247,7 +247,7 @@
     <img src="assets/pub/icml2022_flowformer/thumbnail.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICML</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-top: 5px;padding-bottom: 5px;">
     <div class="title"><a href="https://proceedings.mlr.press/v162/wu22m.html" target="_blank">Flowformer: Linearizing Transformers with Conservation Flows</a></div>
     <div class="author">Haixu Wu, <strong>Jialong Wu</strong>, Jiehui Xu, Jianmin Wang, Mingsheng Long#</div>
     <div class="periodical"><em>International Conference on Machine Learning (<strong>ICML</strong>), 2022.</em></div>
@@ -261,7 +261,7 @@
 
 </li>
 
-<div><em>* Equal Contribution, # Corresponding Author</em></div>
+<div><em>* Equal Contribution, # Corresponding Author, <span style="background-color: #eef5fa; color: #5197c8;padding-right: 5px;padding-left: 5px;padding-top: 2px;padding-bottom: 2px;">Highlight</span></em></div>
 
 </ol>
 </div>
