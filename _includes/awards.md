@@ -1,5 +1,6 @@
 ## Honors & Awards
 
+- ByteDance Scholarship (awarded to <span style="color: #39c;">20</span> students in China and Singapore), 2025
 - ICLR 2025 Notable Reviewer [[Link]](https://iclr.cc/Conferences/2025/Reviewers)
 - National Scholarship (国家奖学金, Top 2%), 2020 [[Certificate]](assets/award/National_Scholarship_Undergraduate_2020.pdf), 2024 [[Certificate]](assets/award/National_Scholarship_Graduate_2024.pdf)
 - Excellent Teaching Assistant Award of Tsinghua (清华大学优秀助教奖, Top 200), 2024 [[Certificate]](assets/award/Tsinghua_Excellent_Teaching_Assistant_Award_2024.pdf)
