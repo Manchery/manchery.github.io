@@ -44,6 +44,7 @@
       <a href="https://github.com/thuml/RLVR-World" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://huggingface.co/collections/thuml/rlvr-world-682f331c75a904b8febc366a" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Models</a>
       <a href="https://huggingface.co/collections/thuml/rlvr-world-682f331c75a904b8febc366a" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Datasets</a>
+      <a href="assets/pub/nips2025_rlvrworld/poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
       <a href="assets/pub/nips2025_rlvrworld/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
   </div>

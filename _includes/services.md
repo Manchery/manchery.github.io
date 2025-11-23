@@ -3,9 +3,9 @@
 <h4 style="margin:0 10px 0;">Reviewer | PC Member</h4>
 
 <ul style="margin:0 0 10px;">
-  <li>International Conference on Learning Representations (<a href="http://iclr.cc/" target="_blank">ICLR</a>) 2024-2025</li>
+  <li>International Conference on Learning Representations (<a href="http://iclr.cc/" target="_blank">ICLR</a>) 2024-2026</li>
   <li>Conference on Neural Information Processing Systems (<a href="https://neurips.cc/" target="_blank">NeurIPS</a>) 2023-2025</li>
-  <li>International Conference on Machine Learning (<a href="http://icml.cc/" target="_blank">ICML</a>) 2022-2026</li>
+  <li>International Conference on Machine Learning (<a href="http://icml.cc/" target="_blank">ICML</a>) 2022-2025</li>
   <li>Transactions on Machine Learning Research (<a href="https://jmlr.org/tmlr/" target="_blank">TMLR</a>)</li>
 </ul>
 

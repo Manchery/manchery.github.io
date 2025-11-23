@@ -1,10 +1,10 @@
 ## Honors & Awards
 
-- ByteDance Scholarship (awarded to <span style="color: #39c;">20</span> students in China and Singapore), 2025
+- ByteDance Scholarship (awarded to <span style="color: #39c;">20</span> students in China and Singapore), 2025  [[Certificate]](assets/award/Bytedance_Scholarship_2025.jpg) 
 - ICLR 2025 Notable Reviewer [[Link]](https://iclr.cc/Conferences/2025/Reviewers)
 - National Scholarship (国家奖学金, Top 2%), 2020 [[Certificate]](assets/award/National_Scholarship_Undergraduate_2020.pdf), 2024 [[Certificate]](assets/award/National_Scholarship_Graduate_2024.pdf)
 - Excellent Teaching Assistant Award of Tsinghua (清华大学优秀助教奖, Top 200), 2024 [[Certificate]](assets/award/Tsinghua_Excellent_Teaching_Assistant_Award_2024.pdf)
-- NeurIPS 2023 Top Reviewer [[Link]](https://neurips.cc/Conferences/2023/ProgramCommittee#top-reivewers)
+- NeurIPS 2023 Top Reviewer [[Link]](https://neurips.cc/Conferences/2023/ProgramCommittee#top-reivewers) [[Certificate]](assets/award/NeurIPS_Top_Reviewer_2023.pdf)
 - Future Researcher Scholarship of Tsinghua (清华大学未来学者奖学金), 2022 [[Certificate]](assets/award/Tsinghua_Future_Researcher_Scholarship_2022.pdf)
 - Outstanding Graduates of Tsinghua (清华大学优秀毕业生, Top 2%), 2022 [[Certificate]](assets/award/Tsinghua_Outstanding_Graduates_2022.pdf)
 - Outstanding Graduates of Beijing (北京市优秀毕业生, Top 5%), 2022 [[Certificate]](assets/award/Beijing_Outstanding_Graduates_2022.pdf)
