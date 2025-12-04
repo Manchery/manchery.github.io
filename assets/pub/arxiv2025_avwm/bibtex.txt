@@ -1,0 +1,9 @@
+@misc{wang2025audiovisualworldmodelsmultisensory,
+      title={Audio-Visual World Models: Towards Multisensory Imagination in Sight and Sound}, 
+      author={Jiahua Wang and Shannan Yan and Leqi Zheng and Jialong Wu and Yaoxin Mao},
+      year={2025},
+      eprint={2512.00883},
+      archivePrefix={arXiv},
+      primaryClass={cs.MM},
+      url={https://arxiv.org/abs/2512.00883}, 
+}
