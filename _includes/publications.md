@@ -11,6 +11,25 @@
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/pub/arxiv2026_reasonvisworld/thumbnail.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+  <div class="col-sm-9 highlight" style="position: relative;padding-right: 15px;padding-left: 20px;padding-top: 5px;padding-bottom: 5px;">
+    <div class="title"><a href="https://arxiv.org/abs/2601.19834" target="_blank">Visual Generation Unlocks Human-Like Reasoning through Multimodal World Models
+</a></div>
+    <div class="author"><strong>Jialong Wu</strong>, Xiaoying Zhang, Hongyi Yuan, Xiangcheng Zhang, Tianhao Huang, Changjing He, Chaoyi Deng, Renrui Zhang, Youbin Wu, Mingsheng Long#</div>
+    <div class="periodical"><em>arXiv preprint, 2026.</em></div>
+    <div class="links">
+      <a href="https://thuml.github.io/Reasoning-Visual-World/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://arxiv.org/abs/2601.19834" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="https://github.com/thuml/Reasoning-Visual-World" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://huggingface.co/datasets/thuml/VisWorld-Eval" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Datasets</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/pub/arxiv2025_avwm/thumbnail.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv</abbr>
   </div>
