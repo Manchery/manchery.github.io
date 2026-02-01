@@ -17,7 +17,7 @@
   <div class="col-sm-9 highlight" style="position: relative;padding-right: 15px;padding-left: 20px;padding-top: 5px;padding-bottom: 5px;">
     <div class="title"><a href="https://arxiv.org/abs/2601.19834" target="_blank">Visual Generation Unlocks Human-Like Reasoning through Multimodal World Models
 </a></div>
-    <div class="author"><strong>Jialong Wu</strong>, Xiaoying Zhang, Hongyi Yuan, Xiangcheng Zhang, Tianhao Huang, Changjing He, Chaoyi Deng, Renrui Zhang, Youbin Wu, Mingsheng Long#</div>
+    <div class="author"><strong>Jialong Wu</strong>, Xiaoying Zhang#, Hongyi Yuan, Xiangcheng Zhang, Tianhao Huang, Changjing He, Chaoyi Deng, Renrui Zhang, Youbin Wu, Mingsheng Long#</div>
     <div class="periodical"><em>arXiv preprint, 2026.</em></div>
     <div class="links">
       <a href="https://thuml.github.io/Reasoning-Visual-World/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
@@ -73,7 +73,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-top: 5px;padding-bottom: 5px;">
     <div class="title"><a href="https://openreview.net/forum?id=9WJoD0iDig" target="_blank">Foresight Diffusion: Improving Sampling Consistency in Predictive Diffusion Models
 </a></div>
-    <div class="author">Yu Zhang, Xingzhuo Guo, Haoran Xu, <strong>Jialong Wu</strong>, Mingsheng Long#</div>
+    <div class="author">Yu Zhang*, Xingzhuo Guo*, Haoran Xu, <strong>Jialong Wu</strong>, Mingsheng Long#</div>
     <div class="periodical"><em>International Conference on Learning Representations (<strong>ICLR</strong>), 2026.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2505.16474" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
