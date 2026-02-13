@@ -30,6 +30,22 @@
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/pub/arxiv2026_jepavla/thumbnail.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-top: 5px;padding-bottom: 5px;">
+    <div class="title"><a href="https://arxiv.org/abs/2602.11832" target="_blank">JEPA-VLA: Video Predictive Embedding is Needed for VLA Models
+</a></div>
+    <div class="author">Shangchen Miao, Ningya Feng, <strong>Jialong Wu</strong>, Ye Lin, Xu He, Dong Li, Mingsheng Long#</div>
+    <div class="periodical"><em>arXiv preprint, 2026.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2602.11832" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/pub/arxiv2025_avwm/thumbnail.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv</abbr>
   </div>
@@ -59,6 +75,7 @@
       <a href="http://knightnemo.github.io/vid2world/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://arxiv.org/abs/2505.14357" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://github.com/thuml/Vid2World" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://huggingface.co/collections/thuml/vid2world" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Models</a>
       <a href="https://x.com/KnightNemo_/status/1925094869388952026" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Twitter</a>
       <a href="assets/pub/iclr2026_vid2world/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
