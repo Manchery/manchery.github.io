@@ -23,6 +23,7 @@
       <a href="https://thuml.github.io/Reasoning-Visual-World/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://arxiv.org/abs/2601.19834" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://github.com/thuml/Reasoning-Visual-World" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="assets/pub/arxiv2026_reasonvisworld/slides.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
       <a href="https://huggingface.co/datasets/thuml/VisWorld-Eval" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Datasets</a>
     </div>
   </div>
