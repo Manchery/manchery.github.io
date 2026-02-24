@@ -67,7 +67,7 @@
     <img src="assets/pub/iclr2026_vid2world/thumbnail.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICLR</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-top: 5px;padding-bottom: 5px;">
+  <div class="col-sm-9 highlight" style="position: relative;padding-right: 15px;padding-left: 20px;padding-top: 5px;padding-bottom: 5px;">
     <div class="title"><a href="https://openreview.net/forum?id=pFyzqbUiF9" target="_blank">Vid2World: Crafting Video Diffusion Models to Interactive World Models
 </a></div>
     <div class="author">Siqiao Huang*, <strong>Jialong Wu</strong>*, Qixing Zhou, Shangchen Miao, Mingsheng Long#</div>
@@ -150,7 +150,7 @@
 </a></div>
     <div class="author">Shaofeng Yin*, <strong>Jialong Wu</strong>*, Siqiao Huang, Xingjian Su, Xu He, Jianye Hao, Mingsheng Long#</div>
     <div class="periodical"><em>International Conference on Machine Learning (<strong>ICML</strong>), 2025.</em></div>
-    <div class="periodical"><em>ICLR Workshop on World Models, 2025.</em></div>
+    <div class="periodical"><em>ICLR 2025 Workshop on World Models: Understanding, Modelling and Scaling.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2502.01366" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://github.com/thuml/TrajWorld" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
