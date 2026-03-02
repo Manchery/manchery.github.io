@@ -19,6 +19,7 @@
 </a></div>
     <div class="author"><strong>Jialong Wu</strong>, Xiaoying Zhang#, Hongyi Yuan, Xiangcheng Zhang, Tianhao Huang, Changjing He, Chaoyi Deng, Renrui Zhang, Youbin Wu, Mingsheng Long#</div>
     <div class="periodical"><em>arXiv preprint, 2026.</em></div>
+    <div class="periodical"><em>ICLR 2026 Workshop on World Models: Understanding, Modelling and Scaling.</em></div>
     <div class="links">
       <a href="https://thuml.github.io/Reasoning-Visual-World/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://arxiv.org/abs/2601.19834" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
