@@ -1,7 +1,9 @@
-<h2 id="publications">Publications & Preprints 
-<temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=FfTZ66gAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp>
-<temp style="font-size:15px;">[</temp><a href="https://www.semanticscholar.org/author/Jialong-Wu/2154707054" target="_blank" style="font-size:15px;">Semantic Scholar</a><temp style="font-size:15px;">]</temp>
-<temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/73/498-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp>
+<h2 id="publications">
+  <span class="pub-title">Selected Publications & Preprints</span>
+  <temp style="font-size:15px;">[</temp><a class="pub-toggle" href="#" data-filter="all" style="font-size:15px;">All</a><temp style="font-size:15px;">]</temp>
+  <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=FfTZ66gAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp>
+  <temp style="font-size:15px;">[</temp><a href="https://www.semanticscholar.org/author/Jialong-Wu/2154707054" target="_blank" style="font-size:15px;">Semantic Scholar</a><temp style="font-size:15px;">]</temp>
+  <temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/73/498-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp>
 </h2>
 
 <div class="publications" style="margin-top:15px">
@@ -19,7 +21,7 @@
 </a></div>
     <div class="author"><strong>Jialong Wu</strong>, Xiaoying Zhang#, Hongyi Yuan, Xiangcheng Zhang, Tianhao Huang, Changjing He, Chaoyi Deng, Renrui Zhang, Youbin Wu, Mingsheng Long#</div>
     <div class="periodical"><em>arXiv preprint, 2026.</em></div>
-    <div class="periodical"><em>ICLR 2026 Workshop on World Models: Understanding, Modelling and Scaling.</em></div>
+    <!-- <div class="periodical"><em>ICLR 2026 Workshop on World Models: Understanding, Modelling and Scaling.</em></div> -->
     <div class="links">
       <a href="https://thuml.github.io/Reasoning-Visual-World/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://arxiv.org/abs/2601.19834" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
@@ -351,8 +353,59 @@
 </div>
 
 </li>
-
-<div><em>* Equal Contribution, # Corresponding Author, <span style="background-color: #eef5fa; color: #5197c8;padding-right: 5px;padding-left: 5px;padding-top: 2px;padding-bottom: 2px;">Highlight</span></em></div>
+<div class="pub-note"><em>* Equal Contribution, # Corresponding Author<span class="pub-note-sep">, </span><span class="pub-note-highlight">Highlight</span></em></div>
 
 </ol>
 </div>
+
+<script>
+(function() {
+  var container = document.querySelector(".publications");
+  if (!container) {
+    return;
+  }
+  var toggle = document.querySelector(".pub-toggle");
+  var title = document.querySelector(".pub-title");
+  var note = document.querySelector(".pub-note");
+  var rows = container.querySelectorAll(".pub-row");
+  rows.forEach(function(row) {
+    if (row.querySelector(".highlight")) {
+      row.classList.add("has-highlight");
+    }
+  });
+  var applyFilter = function(filter) {
+    if (filter === "selected") {
+      container.classList.add("filter-selected");
+      if (toggle) {
+        toggle.textContent = "All";
+        toggle.setAttribute("data-filter", "all");
+      }
+      if (title) {
+        title.textContent = "Selected Publications & Preprints";
+      }
+      if (note) {
+        note.classList.add("hide-highlight");
+      }
+    } else {
+      container.classList.remove("filter-selected");
+      if (toggle) {
+        toggle.textContent = "Selected";
+        toggle.setAttribute("data-filter", "selected");
+      }
+      if (title) {
+        title.textContent = "All Publications & Preprints";
+      }
+      if (note) {
+        note.classList.remove("hide-highlight");
+      }
+    }
+  };
+  if (toggle) {
+    toggle.addEventListener("click", function(event) {
+      event.preventDefault();
+      applyFilter(toggle.getAttribute("data-filter"));
+    });
+  }
+  applyFilter("selected");
+})();
+</script>
