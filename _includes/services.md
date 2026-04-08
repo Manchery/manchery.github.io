@@ -7,6 +7,9 @@
   <li>Conference on Neural Information Processing Systems (<a href="https://neurips.cc/" target="_blank">NeurIPS</a>) 2023-2025</li>
   <li>International Conference on Machine Learning (<a href="http://icml.cc/" target="_blank">ICML</a>) 2022-2026</li>
   <li>Conference on Computer Vision and Pattern Recognition (<a href="https://cvpr.thecvf.com/" target="_blank">CVPR</a>) 2026</li>
+  <li>European Conference on Computer Vision (<a href="https://eccv.ecva.net/" target="_blank">ECCV</a>) 2026</li>
+  <li>ICLR Workshop on World Models: Understanding, Modelling and Scaling (<a href="https://sites.google.com/view/iclr-2026-workshop-world-model/home" target="_blank">ICLRW</a>) 2025-2026</li>
+  <li>IEEE Transactions on Pattern Analysis and Machine Intelligence (<a href="https://www.computer.org/csdl/journal/tp" target="_blank">TPAMI</a>)</li>
   <li>Transactions on Machine Learning Research (<a href="https://jmlr.org/tmlr/" target="_blank">TMLR</a>)</li>
 </ul>
 
