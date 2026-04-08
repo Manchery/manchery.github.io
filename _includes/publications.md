@@ -13,6 +13,24 @@
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/pub/techreport2026_openworldlib/thumbnail.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Tech Report</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-top: 5px;padding-bottom: 5px;">
+    <div class="title"><a href="https://arxiv.org/abs/2604.04707" target="_blank">OpenWorldLib: A Unified Codebase and Definition of Advanced World Models
+</a></div>
+    <div class="author">DataFlow Team, ... <strong>Jialong Wu</strong> <i>(Contributor)</i>, ...</div>
+    <div class="periodical"><em>Technical report, 2026.</em></div>
+    <div class="links">
+      <a href="https://wcny4qa9krto.feishu.cn/wiki/XtPJwf5XQipP7RkeVv0ckyWlnNd" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://arxiv.org/abs/2604.04707" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="https://github.com/OpenDCAI/OpenWorldLib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/pub/techreport2026_seed1.8/thumbnail.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Tech Report</abbr>
   </div>
