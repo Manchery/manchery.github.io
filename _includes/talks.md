@@ -1,6 +1,7 @@
 <h2 id="projects">Invited Talks & Activities</h2>
 
 <ul>
+    <li><strong>On Concepts of World Models: From Simulation to Thinking</strong>, at <a href="https://www.youtube.com/@niceaitalk">NICE AI Talk</a>, April 26, 2026</li>
     <li><strong>World Models and Human-like Reasoning</strong>, at <a href="https://www.merl.com/">MERL</a> Seminar Series, March 25, 2026 <a href="https://www.merl.com/news/talk-20260325-1597">[Link]</a></li>
     <li><strong>World Models and Human-like Reasoning</strong>, at <a href="https://deepmind.google/">Google DeepMind</a> London, Feb. 13, 2026</li>
     <li><strong>A Path Towards General World Models</strong>, at <a href="https://2025.baai.ac.cn/">BAAI Conference</a>, June 6, 2025</li>

@@ -9,7 +9,7 @@
 - Outstanding Graduates of Tsinghua (清华大学优秀毕业生, Top 2%), 2022 [[Certificate]](assets/award/Tsinghua_Outstanding_Graduates_2022.pdf)
 - Outstanding Graduates of Beijing (北京市优秀毕业生, Top 5%), 2022 [[Certificate]](assets/award/Beijing_Outstanding_Graduates_2022.pdf)
 - Excellent Graduation Thesis of Tsinghua (清华大学优秀本科生毕业论文), 2022 [[Certificate]](assets/award/Tsinghua_Excellent_Graduation_Thesis_2022.pdf)
-- Comprehensive Excellence Award of Tsinghua (清华大学综合优秀奖), 2019 [[Certificate]](assets/award/Tsinghua_Comprehensive_Excellence_Award_2019.pdf), 2021 [[Certificate]](assets/award/Tsinghua_Comprehensive_Excellence_Award_2021.pdf), 2023 [[Certificate]](assets/award/Tsinghua_Comprehensive_Excellence_Award_2023.pdf)
+- Comprehensive Excellence Award of Tsinghua (清华大学综合优秀奖), 2019 [[Certificate]](assets/award/Tsinghua_Comprehensive_Excellence_Award_2019.pdf), 2021 [[Certificate]](assets/award/Tsinghua_Comprehensive_Excellence_Award_2021.pdf), 2023 [[Certificate]](assets/award/Tsinghua_Comprehensive_Excellence_Award_2023.pdf), 2025
 - 34th National Olympiad in Informatics ([NOI](https://www.noi.cn/)), Silver Medal ([81st Place](https://www.noi.cn/ccf/file/do?fid=8Y7EFHHQ&attach=n)), 2017 [[Certificate]](assets/award/NOI2017.jpg)
 
 {% include_relative _includes/services.md %}
