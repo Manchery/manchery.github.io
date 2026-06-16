@@ -13,6 +13,21 @@
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/pub/arxiv2026_timevista/thumbnail.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-top: 5px;padding-bottom: 5px;">
+    <div class="title"><a href="https://arxiv.org/abs/2606.16173" target="_blank">TimeVista: Exploring and Exploiting Vision-Language Models as Judges for Time Series Forecasting</a></div>
+    <div class="author">Zhi Chen*, Yuxuan Wang*, <strong>Jialong Wu</strong>#, Yong Liu, Haoran Zhang, Xingjian Su, Jianmin Wang, Mingsheng Long#</div>
+    <div class="periodical"><em>arXiv preprint, 2026.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2606.16173" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/pub/techreport2026_openworldlib/thumbnail.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Tech Report</abbr>
   </div>
