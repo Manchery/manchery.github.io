@@ -13,6 +13,22 @@
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/pub/techreport2026_seed2.0/thumbnail.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Tech Report</abbr>
+  </div>
+  <div class="col-sm-9 highlight" style="position: relative;padding-right: 15px;padding-left: 20px;padding-top: 5px;padding-bottom: 5px;">
+    <div class="title"><a href="https://arxiv.org/abs/2607.00248" target="_blank">Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity</a></div>
+    <div class="author">Bytedance Seed: ... <strong>Jialong Wu</strong> <i>(Contributor)</i>, ...</div>
+    <div class="periodical"><em>Technical report, 2026.</em></div>
+    <div class="links">
+      <a href="https://seed.bytedance.com/en/seed2" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://arxiv.org/abs/2607.00248" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/pub/arxiv2026_timevista/thumbnail.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv</abbr>
   </div>
