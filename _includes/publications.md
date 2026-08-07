@@ -13,7 +13,7 @@
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/pub/techreport2026_seed2.0/thumbnail.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/pub/techreport2026_seed2.0/thumbnail.png" class="teaser teaser-cover img-fluid z-depth-1">
     <abbr class="badge">Tech Report</abbr>
   </div>
   <div class="col-sm-9 highlight" style="position: relative;padding-right: 15px;padding-left: 20px;padding-top: 5px;padding-bottom: 5px;">
@@ -62,7 +62,7 @@
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/pub/techreport2026_seed1.8/thumbnail.jpg" class="teaser img-fluid z-depth-1">
+    <img src="assets/pub/techreport2026_seed1.8/thumbnail.jpg" class="teaser teaser-cover img-fluid z-depth-1">
     <abbr class="badge">Tech Report</abbr>
   </div>
   <div class="col-sm-9 highlight" style="position: relative;padding-right: 15px;padding-left: 20px;padding-top: 5px;padding-bottom: 5px;">
@@ -162,7 +162,7 @@
       <a href="https://arxiv.org/abs/2505.14357" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://github.com/thuml/Vid2World" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://huggingface.co/collections/thuml/vid2world" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Models</a>
-      <a href="https://x.com/KnightNemo_/status/1925094869388952026" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Twitter</a>
+      <a href="https://x.com/KnightNemo_/status/1925094869388952026" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Twitter/X</a>
       <a href="assets/pub/iclr2026_vid2world/bibtex.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
   </div>
