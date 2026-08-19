@@ -18,15 +18,15 @@
   </div>
   <div class="col-sm-9 highlight" style="position: relative;padding-right: 15px;padding-left: 20px;padding-top: 5px;padding-bottom: 5px;">
     <div class="title"><a href="https://arxiv.org/abs/2608.16859" target="_blank">HarnessEval-W: Agentifying the Evaluation of Visual Worlds</a></div>
-    <div class="author">Weiliang Chen*, Haowen Sun*, Jun Gao*#, ... , Ming-Yu Liu, <strong>Jialong Wu</strong># <i>(Co-Project Lead)</i>, Jiangran Lyu#, Fangfu Liu#</div>
+    <div class="author">MirroS Team: Weiliang Chen*, Haowen Sun*, Jun Gao*#, ... , Ming-Yu Liu, <strong>Jialong Wu</strong># <i>(Co-Project Lead)</i>, Jiangran Lyu#, Fangfu Liu#</div>
     <div class="periodical"><em>arXiv preprint, 2026.</em></div>
     <div class="links">
       <a href="https://mirros-lab.github.io/HarnessEval-W" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://arxiv.org/abs/2608.16859" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://github.com/MirroS-Lab/HarnessEval-W" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://mirros.ai/blog/harnesseval" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Blog</a>
-      <!-- <a href="xxxx" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a> -->
-      <!-- <a href="xxxx" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Twitter/X</a> -->
+      <a href="https://x.com/MirroS_ai/status/2089746321301467540" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
+      <a href="https://x.com/MirroS_ai/status/2089746321301467540" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Twitter/X</a>
     </div>
   </div>
 </div>
