@@ -13,6 +13,26 @@
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/pub/techreport2026_codeasworld/thumbnail.png" class="teaser teaser-cover img-fluid z-depth-1">
+    <abbr class="badge">Tech Report</abbr>
+  </div>
+  <div class="col-sm-9 highlight" style="position: relative;padding-right: 15px;padding-left: 20px;padding-top: 5px;padding-bottom: 5px;">
+    <div class="title"><a href="https://mirros.ai/report/code-as-world.pdf" target="_blank">Code as Worlds: Agentic Discovery of Executable World Representations for Physical Reasoning</a></div>
+    <div class="author">MirroS Team: Hanyang Wang, Yimo Cai, Weiliang Chen, Jiawei Chi, Haowen Sun, Qiyu Dai, Yi-Hsin Hung, Xingzhuo Guo, Jinshan Ren, Runmao Yao, Ziwei Liu, Mingsheng Long, Yueqi Duan, Jun Gao, Jiangran Lyu, Fangfu Liu, <strong>Jialong Wu</strong>#</div>
+    <div class="periodical"><em>Tehcnical report, 2026.</em></div>
+    <div class="links">
+      <a href="https://mirros-lab.github.io/code-as-world/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <!-- <a href="https://arxiv.org/abs/2608.16859" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a> -->
+      <a href="https://github.com/MirroS-Lab/Code-as-World" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://mirros.ai/blog/representing-physical-world" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Blog</a>
+      <a href="https://x.com/MirroS_ai/status/2093367432920650063" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
+      <a href="https://x.com/MirroS_ai/status/2093367432920650063" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Twitter/X</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/pub/arxiv2026_harnessevalw/thumbnail.png" class="teaser teaser-cover img-fluid z-depth-1">
     <abbr class="badge">Tech Report</abbr>
   </div>
